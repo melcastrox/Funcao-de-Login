@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🚀 Atividades de JavaScript </h1>
+<h1 align="center">🚀 Atividades  </h1>
 
 <p align="center">
   Este repositório contém uma série de atividades de JavaScript focadas no desenvolvimento de funções simples, como interação com o usuário e manipulação de dados. As atividades abordam conceitos básicos e intermediários de JavaScript, ideais para iniciantes e para quem deseja melhorar a compreensão da linguagem.
